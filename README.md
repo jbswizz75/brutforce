@@ -1,2 +1,1 @@
-# brutforce
-# brutforce
+# bruteforce
